@@ -1,3 +1,5 @@
+<h1>Three Sided Flashcards</h1>
+
 Three Sided Flashcards is a Python desktop application for studying Chinese vocabulary through three connected components: Chinese characters, Pinyin (pronunciation) and English meanings. Unlike traditional two-sided flashcards, Three Sided Flashcards allows for more flexibility as users can choose which component to use as question and which component to use as answer. 
 
 <b>Running the app:</b>
